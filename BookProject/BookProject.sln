@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookWpf", "BookWpf\BookWpf.csproj", "{5D81F4C1-E16D-4D4C-8948-93A8B0C498B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{79FDEE39-9040-4A6A-B91B-BACAB9891B86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{C48FC460-3D0A-49AE-BC7D-F976BDC14EE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D81F4C1-E16D-4D4C-8948-93A8B0C498B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D81F4C1-E16D-4D4C-8948-93A8B0C498B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D81F4C1-E16D-4D4C-8948-93A8B0C498B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D81F4C1-E16D-4D4C-8948-93A8B0C498B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79FDEE39-9040-4A6A-B91B-BACAB9891B86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79FDEE39-9040-4A6A-B91B-BACAB9891B86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79FDEE39-9040-4A6A-B91B-BACAB9891B86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79FDEE39-9040-4A6A-B91B-BACAB9891B86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C48FC460-3D0A-49AE-BC7D-F976BDC14EE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C48FC460-3D0A-49AE-BC7D-F976BDC14EE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C48FC460-3D0A-49AE-BC7D-F976BDC14EE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C48FC460-3D0A-49AE-BC7D-F976BDC14EE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

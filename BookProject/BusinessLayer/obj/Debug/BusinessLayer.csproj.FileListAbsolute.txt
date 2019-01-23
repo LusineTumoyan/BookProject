@@ -1,0 +1,16 @@
+C:\Users\InnoUser14\Desktop\LT\BookProject\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\InnoUser14\Desktop\LT\BookProject\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\InnoUser14\Desktop\LT\BookProject\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\InnoUser14\Desktop\LT\BookProject\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\InnoUser14\Desktop\LT\BookProject\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\InnoUser14\Desktop\LT\BookProject\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\InnoUser14\Desktop\LT\BookProject\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Comp\Desktop\BookProject\BookProject\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Comp\Desktop\BookProject\BookProject\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Comp\Desktop\BookProject\BookProject\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Comp\Desktop\BookProject\BookProject\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Comp\Desktop\BookProject\BookProject\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Comp\Desktop\BookProject\BookProject\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Comp\Desktop\BookProject\BookProject\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\Comp\Desktop\BookProject\BookProject\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Comp\Desktop\BookProject\BookProject\BusinessLayer\obj\Debug\BusinessLayer.pdb
